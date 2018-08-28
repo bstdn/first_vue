@@ -15,8 +15,3 @@ composer.json
 contributing.md
 license.txt
 readme.rst
-
-#codeigniter 3
-application/logs/*
-!application/logs/index.html
-!application/logs/.htaccess
